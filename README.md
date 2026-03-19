@@ -63,7 +63,6 @@ https://www.kaggle.com/datasets/unsdsn/world-happiness
 
 Bảng trên chỉ trình bày một phần dữ liệu đại diện cho mục đích minh họa; toàn bộ dataset bao gồm 781 quan sát và 9 biến trong giai đoạn 2015–2019.
 
----
 
 ## 📌 Các biến quan trọng
 
@@ -89,7 +88,7 @@ Quy trình phân tích được thực hiện theo hướng tiếp cận dữ li
 4. **Visualization**: Sử dụng Power BI để trực quan hóa dữ liệu, giúp làm nổi bật các xu hướng, so sánh giữa các quốc gia và hỗ trợ diễn giải kết quả một cách trực quan và hiệu quả.
 5. **Kết luận phân tích**: Tổng hợp các phát hiện chính từ dữ liệu, từ đó đưa ra các kết luận có giá trị và hàm ý đối với việc hiểu và cải thiện mức độ hạnh phúc của các quốc gia
 
-## 🛠 Công cụ và công nghệ sử dụng
+## 🚀 Công cụ và công nghệ sử dụng
 
 Quá trình phân tích được thực hiện với sự hỗ trợ của các công cụ sau:
 
@@ -104,4 +103,19 @@ Quá trình phân tích được thực hiện với sự hỗ trợ của các 
 # Cấu trúc dữ liệu
 
 ![ERD](https://drive.google.com/uc?export=view&id=1w-nd2dIMUubCV1wT-YH0yIEv1v8IEmcS)
+
+# Phân tích 1: Phân bố mức độ hạnh phúc toàn cầu
+### Giả thuyết  
+Phần lớn các quốc gia có mức hạnh phúc ở ngưỡng trung bình, trong khi số quốc gia đạt mức rất cao hoặc rất thấp chiếm tỷ trọng nhỏ.
+
+| Happiness Group | Count |
+|-----------------|------:|
+| 0-4             | 18   |
+| 4-5             | 43   |
+| 5-6             | 59   |
+| 6-7             | 36   |
+| 7+              | 14   |
+
+<img width="640" height="341" alt="image" src="https://github.com/user-attachments/assets/19f0e134-4eed-4e77-9fe7-133fe81243a9" />
+
 
