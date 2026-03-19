@@ -76,4 +76,32 @@ Bảng trên chỉ trình bày một phần dữ liệu đại diện cho mục 
 - Genorosity : Độ hào phóng cho người khác
 - Trust (Government Corruption): Niềm tin vào chính phủ
 - Year: Năm
+  
+  ---
+  
+# 3. Phương pháp phân tích (Methodology)
+
+Quy trình phân tích được thực hiện theo hướng tiếp cận dữ liệu, bao gồm các bước chính:
+
+1. **Data Understanding**: Khảo sát cấu trúc và ý nghĩa dữ liệu  
+2. **Data Cleaning**: Làm sạch và chuẩn hóa dữ liệu  
+3. **EDA**: Khám phá xu hướng và mối quan hệ giữa các biến  
+4. **Visualization**: Sử dụng Power BI để trực quan hóa dữ liệu, giúp làm nổi bật các xu hướng, so sánh giữa các quốc gia và hỗ trợ diễn giải kết quả một cách trực quan và hiệu quả.
+5. **Kết luận phân tích**: Tổng hợp các phát hiện chính từ dữ liệu, từ đó đưa ra các kết luận có giá trị và hàm ý đối với việc hiểu và cải thiện mức độ hạnh phúc của các quốc gia
+
+## 🛠 Công cụ và công nghệ sử dụng
+
+Quá trình phân tích được thực hiện với sự hỗ trợ của các công cụ sau:
+
+- **Python (GG colab)**: Xử lý dữ liệu, làm sạch dữ liệu và thực hiện phân tích khám phá (EDA)  
+- **Power BI**: Trực quan hóa dữ liệu và xây dựng dashboard nhằm hỗ trợ diễn giải kết quả  
+- **GitHub**: Quản lý mã nguồn và trình bày dự án một cách minh bạch, có hệ thống
+
+---
+
+# BÀI PHÂN TÍCH
+
+# Cấu trúc dữ liệu
+
+![ERD](https://drive.google.com/uc?export=view&id=1w-nd2dIMUubCV1wT-YH0yIEv1v8IEmcS)
 
