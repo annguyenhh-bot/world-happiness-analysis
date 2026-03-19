@@ -30,7 +30,7 @@ Cụ thể, dự án tập trung vào:
 
 ## 🧠 Các câu hỏi nghiên cứu
 
-1. Quốc gia nào có mức độ hạnh phúc cao nhất?  
+1. 10 Quốc gia nào có mức độ hạnh phúc cao nhất?  
 2. Hạnh phúc có thay đổi theo thời gian không?  
 3. Quốc gia giàu có luôn hạnh phúc hơn không?  
 4. Yếu tố nào ảnh hưởng mạnh nhất đến hạnh phúc?  
@@ -78,7 +78,7 @@ Bảng trên chỉ trình bày một phần dữ liệu đại diện cho mục 
   
   ---
   
-# 3. Phương pháp phân tích (Methodology)
+# 3. Phương pháp phân tích
 
 Quy trình phân tích được thực hiện theo hướng tiếp cận dữ liệu, bao gồm các bước chính:
 
@@ -104,7 +104,7 @@ Quá trình phân tích được thực hiện với sự hỗ trợ của các 
 
 ![ERD](https://drive.google.com/uc?export=view&id=1w-nd2dIMUubCV1wT-YH0yIEv1v8IEmcS)
 
-# Phân tích 1: Phân bố mức độ hạnh phúc toàn cầu
+# Phân tích 1: 10 Quốc gia nào có mức độ hạnh phúc cao nhất?  
 ### Giả thuyết  
 Phần lớn các quốc gia có mức hạnh phúc ở ngưỡng trung bình, trong khi số quốc gia đạt mức rất cao hoặc rất thấp chiếm tỷ trọng nhỏ.
 
@@ -117,5 +117,20 @@ Phần lớn các quốc gia có mức hạnh phúc ở ngưỡng trung bình, t
 | 7+              | 14   |
 
 <img width="640" height="341" alt="image" src="https://github.com/user-attachments/assets/19f0e134-4eed-4e77-9fe7-133fe81243a9" />
+
+### Kết luận:
+Phân bố cho thấy mức độ hạnh phúc toàn cầu tập trung chủ yếu trong khoảng 5–7 điểm, phản ánh một “mặt bằng trung bình” tương đối ổn định giữa các quốc gia.  
+Tuy nhiên, vẫn tồn tại một nhóm nhỏ các quốc gia đạt mức hạnh phúc rất cao, cho thấy sự chênh lệch đáng kể về chất lượng sống trên phạm vi toàn cầu.
+
+---
+
+# Phân tích 2: Hạnh phúc có thay đổi theo thời gian không?
+
+### Giả thuyết:
+GDP cao → Hạnh phúc cao
+
+### Kết luận:
+GDP có tương quan dương với hạnh phúc nhưng không phải yếu tố duy nhất quyết định.  
+Một số quốc gia có GDP trung bình vẫn đạt mức hạnh phúc cao.
 
 
