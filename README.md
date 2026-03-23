@@ -119,18 +119,31 @@ Phần lớn các quốc gia có mức hạnh phúc ở ngưỡng trung bình, t
 <img width="640" height="341" alt="image" src="https://github.com/user-attachments/assets/19f0e134-4eed-4e77-9fe7-133fe81243a9" />
 
 ### Kết luận:
-Phân bố cho thấy mức độ hạnh phúc toàn cầu tập trung chủ yếu trong khoảng 5–7 điểm, phản ánh một “mặt bằng trung bình” tương đối ổn định giữa các quốc gia.  
-Tuy nhiên, vẫn tồn tại một nhóm nhỏ các quốc gia đạt mức hạnh phúc rất cao, cho thấy sự chênh lệch đáng kể về chất lượng sống trên phạm vi toàn cầu.
+Phân bố cho thấy mức độ hạnh phúc toàn cầu tập trung chủ yếu trong khoảng 5–7 điểm, phản ánh một “mặt bằng trung bình” tương đối ổn định giữa các quốc gia;  mức hạnh phúc rất cao (trên 7 điểm) chỉ chiếm một tỷ lệ nhỏ.  
+Điều này cho thấy mức hạnh phúc cao không phải là kết quả của một yếu tố đơn lẻ, mà là sự tổng hòa của nhiều điều kiện kinh tế, xã hội và thể chế.
 
 ---
 
 # Phân tích 2: Hạnh phúc có thay đổi theo thời gian không?
 
-### Giả thuyết:
-GDP cao → Hạnh phúc cao
+### Giả thuyết: 
+Mức độ hạnh phúc toàn cầu duy trì tương đối ổn định trong giai đoạn 2015–2019, chỉ có những biến động nhỏ theo thời gian.
+
+| Year | Avg Happiness |
+| ---- | ------------- |
+| 2015 | ~5.37         |
+| 2016 | ~5.38         |
+| 2017 | ~5.35         |
+| 2018 | ~5.36         |
+| 2019 | ~5.41         |
+
+<img width="663" height="320" alt="image" src="https://github.com/user-attachments/assets/13a052e4-e9a5-46cc-b054-7d4019bc0a99" />
 
 ### Kết luận:
-GDP có tương quan dương với hạnh phúc nhưng không phải yếu tố duy nhất quyết định.  
-Một số quốc gia có GDP trung bình vẫn đạt mức hạnh phúc cao.
+Mặc dù mức độ hạnh phúc toàn cầu có biến động nhẹ trong giai đoạn 2015–2019, đặc biệt là sự sụt giảm vào năm 2017 và phục hồi sau đó, nhưng biên độ thay đổi nhìn chung khá nhỏ.
+
+Điều này cho thấy hạnh phúc là một chỉ số vĩ mô có tính ổn định tương đối theo thời gian và không dễ bị tác động bởi các biến động ngắn hạn. Nói cách khác, những thay đổi về hạnh phúc có xu hướng diễn ra chậm và cần các yếu tố mang tính cấu trúc, dài hạn để tạo ra sự khác biệt đáng kể.
+
+
 
 
