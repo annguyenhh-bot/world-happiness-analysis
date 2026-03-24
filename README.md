@@ -150,6 +150,7 @@ Mặc dù mức độ hạnh phúc toàn cầu có biến động nhẹ trong gi
 
 # Phân tích 3: Quốc gia giàu có luôn hạnh phúc hơn không?  
 ### Giả thuyết:
+GDP bình quân đầu người cao có liên quan đến mức độ hạnh phúc cao hơn, nhưng không phải là yếu tố quyết định duy nhất đến hạnh phúc của một quốc gia.
 
 | Mã giả thuyết | Giả thuyết                                                                 | Kỳ vọng                                             |
 |--------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|
