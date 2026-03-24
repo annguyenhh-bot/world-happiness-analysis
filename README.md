@@ -104,23 +104,26 @@ Quá trình phân tích được thực hiện với sự hỗ trợ của các 
 
 ![ERD](https://drive.google.com/uc?export=view&id=1w-nd2dIMUubCV1wT-YH0yIEv1v8IEmcS)
 
-# Phân tích 1: 10 Quốc gia nào có mức độ hạnh phúc cao nhất?  
+# Phân tích 1: Điều gì tạo nên hạnh phúc ở 10 quốc gia top đầu?
+
 ### Giả thuyết  
-Phần lớn các quốc gia có mức hạnh phúc ở ngưỡng trung bình, trong khi số quốc gia đạt mức rất cao hoặc rất thấp chiếm tỷ trọng nhỏ.
+Các quốc gia có mức độ hạnh phúc cao không chỉ dựa vào một yếu tố đơn lẻ (như GDP), mà đạt được kết quả này nhờ sự kết hợp cân bằng giữa các yếu tố kinh tế, xã hội và chất lượng sống.
 
-| Happiness Group | Count |
-|-----------------|------:|
-| 0-4             | 18   |
-| 4-5             | 43   |
-| 5-6             | 59   |
-| 6-7             | 36   |
-| 7+              | 14   |
+| Mã giả thuyết | Nội dung giả thuyết                                                                 | Kỳ vọng                                                                 |
+|--------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| H1           | GDP bình quân đầu người cao dẫn đến mức độ hạnh phúc cao hơn                         | Quốc gia có GDP cao sẽ có điểm hạnh phúc cao hơn                       |
+| H2           | Hỗ trợ xã hội có ảnh hưởng đáng kể đến hạnh phúc                   | Quốc gia có mức hỗ trợ xã hội cao sẽ xếp hạng cao về hạnh phúc         |
+| H3           | Tuổi thọ có tác động tích cực đến hạnh phúc                       | Quốc gia có tuổi thọ cao hơn sẽ có mức hạnh phúc cao hơn               |
+| H4           | Tự do trong việc đưa ra lựa chọn cuộc sống làm tăng mức độ hạnh phúc                | Quốc gia có mức độ tự do cao sẽ có điểm hạnh phúc cao hơn              |
+| H5           | Hạnh phúc được tạo nên từ sự kết hợp của nhiều yếu tố                               | Các quốc gia top có cấu trúc điểm cân bằng, không phụ thuộc 1 yếu tố    |
+| H6           | Mức độ tham nhũng thấp (niềm tin vào chính phủ cao) góp phần làm tăng hạnh phúc     | Quốc gia có mức tham nhũng thấp sẽ có điểm hạnh phúc cao hơn           |
 
-<img width="640" height="341" alt="image" src="https://github.com/user-attachments/assets/19f0e134-4eed-4e77-9fe7-133fe81243a9" />
+<img width="1009" height="636" alt="image" src="https://github.com/user-attachments/assets/bc3e4a1e-1b0b-41d3-a6af-522af666066c" />
 
 ### Kết luận:
-Phân bố cho thấy mức độ hạnh phúc toàn cầu tập trung chủ yếu trong khoảng 5–7 điểm, phản ánh một “mặt bằng trung bình” tương đối ổn định giữa các quốc gia;  mức hạnh phúc rất cao (trên 7 điểm) chỉ chiếm một tỷ lệ nhỏ.  
-Điều này cho thấy mức hạnh phúc cao không phải là kết quả của một yếu tố đơn lẻ, mà là sự tổng hòa của nhiều điều kiện kinh tế, xã hội và thể chế.
+Phân tích cho thấy các quốc gia có mức độ hạnh phúc cao không phụ thuộc vào một yếu tố duy nhất, mà đạt được nhờ sự cân bằng đồng đều giữa nhiều khía cạnh như kinh tế, hỗ trợ xã hội và chất lượng sống.
+
+Mặc dù GDP và hỗ trợ xã hội đóng vai trò quan trọng, chúng không đủ để giải thích hoàn toàn sự khác biệt về mức độ hạnh phúc. Thay vào đó, các quốc gia top đầu thể hiện một “hệ sinh thái hạnh phúc” ổn định, nơi tất cả các yếu tố cùng đạt mức cao một cách nhất quán.
 
 ---
 
