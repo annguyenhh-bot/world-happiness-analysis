@@ -30,9 +30,9 @@ Cụ thể, dự án tập trung vào:
 
 ## 🧠 Các câu hỏi nghiên cứu
 
-1. 10 Quốc gia nào có mức độ hạnh phúc cao nhất?  
+1. Điều gì tạo nên hạnh phúc ở 10 quốc gia top đầu?
 2. Hạnh phúc có thay đổi theo thời gian không?  
-3. Quốc gia giàu có luôn hạnh phúc hơn không?  
+3. Quốc gia giàu có có luôn hạnh phúc hơn không?  
 4. Yếu tố nào ảnh hưởng mạnh nhất đến hạnh phúc?  
 5. Có quốc gia nào vượt kỳ vọng so với GDP không?  
 
@@ -109,7 +109,7 @@ Quá trình phân tích được thực hiện với sự hỗ trợ của các 
 ### Giả thuyết  
 Các quốc gia có mức độ hạnh phúc cao không chỉ dựa vào một yếu tố đơn lẻ (như GDP), mà đạt được kết quả này nhờ sự kết hợp cân bằng giữa các yếu tố kinh tế, xã hội và chất lượng sống.
 
-| Mã giả thuyết | Nội dung giả thuyết                                                                 | Kỳ vọng                                                                 |
+| Mã giả thuyết | Giả thuyết                                                                 | Kỳ vọng                                                                 |
 |--------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | H1           | GDP bình quân đầu người cao dẫn đến mức độ hạnh phúc cao hơn                         | Quốc gia có GDP cao sẽ có điểm hạnh phúc cao hơn                       |
 | H2           | Hỗ trợ xã hội có ảnh hưởng đáng kể đến hạnh phúc                   | Quốc gia có mức hỗ trợ xã hội cao sẽ xếp hạng cao về hạnh phúc         |
@@ -147,6 +147,18 @@ Mức độ hạnh phúc toàn cầu duy trì tương đối ổn định trong 
 Mặc dù mức độ hạnh phúc toàn cầu có biến động nhẹ trong giai đoạn 2015–2019, đặc biệt là sự sụt giảm vào năm 2017 và phục hồi sau đó, nhưng biên độ thay đổi nhìn chung khá nhỏ.
 
 Điều này cho thấy hạnh phúc là một chỉ số vĩ mô có tính ổn định tương đối theo thời gian và không dễ bị tác động bởi các biến động ngắn hạn. Nói cách khác, những thay đổi về hạnh phúc có xu hướng diễn ra chậm và cần các yếu tố mang tính cấu trúc, dài hạn để tạo ra sự khác biệt đáng kể.
+
+# Phân tích 3: Quốc gia giàu có luôn hạnh phúc hơn không?  
+### Giả thuyết:
+
+| Mã giả thuyết | Giả thuyết                                                                 | Kỳ vọng                                             |
+|--------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| H1           | Các quốc gia có GDP cao có xu hướng hạnh phúc cao hơn                     | Tồn tại mối tương quan dương rõ ràng giữa GDP và Happiness Score        |
+| H2           | GDP là yếu tố quyết định chính đến mức độ hạnh phúc                       | GDP giải thích phần lớn sự biến thiên của Happiness Score               |
+| H3           | Top 10 quốc gia giàu nhất có mức độ hạnh phúc tương đối đồng đều          | Các điểm dữ liệu tập trung, ít phân tán trên biểu đồ                    |
+
+<img width="513" height="335" alt="image" src="https://github.com/user-attachments/assets/f542fe03-f82f-42fb-b56e-51c442453769" />
+
 
 
 
