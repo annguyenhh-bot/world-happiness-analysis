@@ -181,6 +181,7 @@ Kinh tế tạo nền tảng cho hạnh phúc, nhưng chính yếu tố xã hộ
 
 # Phân tích 5: Mức độ chênh lệch hạnh phúc giữa các quốc gia có đang thu hẹp hay gia tăng theo thời gian?
 
+<img width="585" height="294" alt="image" src="https://github.com/user-attachments/assets/de8c694f-1016-4312-a925-dae172a91f8d" />
 
 
 
