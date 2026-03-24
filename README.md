@@ -217,6 +217,19 @@ GDP là nền tảng – nhưng không phải yếu tố quyết định.
 # Cụ thể: Insight 3
 Khoảng cách hạnh phúc đang mở rộng do khác biệt về năng lực phát triển bền vững
 
+Nếu áp dụng vào tổ chức hoặc quốc gia:
+
+* Tăng trưởng là chưa đủ
+* Cần đầu tư vào “chất lượng hệ thống”:
+
+  * Con người
+  * Môi trường
+  * Niềm tin
+  * Trải nghiệm
+
+Bởi vì:
+
+👉 **Giá trị bền vững không đến từ việc có nhiều hơn — mà đến từ việc vận hành tốt hơn.**
 
 
 
