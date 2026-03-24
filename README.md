@@ -34,7 +34,7 @@ Cụ thể, dự án tập trung vào:
 2. Hạnh phúc có thay đổi theo thời gian không?  
 3. Quốc gia giàu có có luôn hạnh phúc hơn không?  
 4. Yếu tố nào ảnh hưởng mạnh nhất đến hạnh phúc?  
-5. Có quốc gia nào vượt kỳ vọng so với GDP không?  
+5. Mức độ chênh lệch hạnh phúc giữa các quốc gia có đang thu hẹp hay gia tăng theo thời gian? 
 
 ---
 
@@ -178,5 +178,9 @@ GDP tạo nền tảng, nhưng chính yếu tố xã hội mới tạo ra sự k
 
 ### Kết luận: 
 Kinh tế tạo nền tảng cho hạnh phúc, nhưng chính yếu tố xã hội và sức khỏe mới quyết định sự bền vững của hạnh phúc.
+
+# Phân tích 5: Mức độ chênh lệch hạnh phúc giữa các quốc gia có đang thu hẹp hay gia tăng theo thời gian?
+
+
 
 
