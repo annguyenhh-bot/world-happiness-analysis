@@ -181,7 +181,21 @@ Kinh tế tạo nền tảng cho hạnh phúc, nhưng chính yếu tố xã hộ
 
 # Phân tích 5: Mức độ chênh lệch hạnh phúc giữa các quốc gia có đang thu hẹp hay gia tăng theo thời gian?
 
+## Giả thuyết 
+| Danh mục        | Nội dung |
+|-----------------|----------|
+| Giả thuyết H0   | Mức độ chênh lệch hạnh phúc giữa các quốc gia không thay đổi đáng kể theo thời gian. |
+| Giả thuyết H1   | Mức độ chênh lệch hạnh phúc giữa các quốc gia có xu hướng gia tăng theo thời gian, phản ánh sự phân hóa ngày càng rõ giữa các nhóm quốc gia. |
+| Kỳ vọng         | Khoảng cách hạnh phúc toàn cầu có xu hướng mở rộng nhẹ trong dài hạn. Các biến động giảm ngắn hạn chỉ mang tính tạm thời, trong khi xu hướng chung vẫn là gia tăng bất bình đẳng do các yếu tố cấu trúc như thu nhập, phúc lợi xã hội và ổn định kinh tế. |
+
 <img width="585" height="294" alt="image" src="https://github.com/user-attachments/assets/de8c694f-1016-4312-a925-dae172a91f8d" />
 
+## Kết luận
+
+Phân tích cho thấy mức độ chênh lệch hạnh phúc toàn cầu không đi theo một xu hướng thu hẹp bền vững, mà biến động theo chu kỳ ngắn hạn nhưng nghiêng về xu hướng gia tăng trong dài hạn. Dù có những thời điểm khoảng cách được cải thiện, các nhịp giảm này chưa đủ mạnh để đảo chiều xu hướng chung.
+
+Điều này hàm ý rằng tăng trưởng và tiến bộ kinh tế toàn cầu chưa lan tỏa đồng đều giữa các quốc gia. Khoảng cách hạnh phúc vì thế không chỉ phản ánh sự khác biệt về thu nhập, mà còn là kết quả tích lũy của các yếu tố cấu trúc như chất lượng thể chế, hệ thống phúc lợi và mức độ ổn định xã hội.
+
+Nói cách khác, thế giới đang tiến về phía trước, nhưng không cùng một nhịp — và chính sự lệch pha này đang âm thầm nới rộng khoảng cách hạnh phúc giữa các quốc gia.
 
 
