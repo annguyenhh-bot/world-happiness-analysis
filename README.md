@@ -118,7 +118,8 @@ Các quốc gia có mức độ hạnh phúc cao không chỉ dựa vào một y
 | H5           | Hạnh phúc được tạo nên từ sự kết hợp của nhiều yếu tố                               | Các quốc gia top có cấu trúc điểm cân bằng, không phụ thuộc 1 yếu tố    |
 | H6           | Mức độ tham nhũng thấp (niềm tin vào chính phủ cao) góp phần làm tăng hạnh phúc     | Quốc gia có mức tham nhũng thấp sẽ có điểm hạnh phúc cao hơn           |
 
-<img width="1028" height="628" alt="image" src="https://github.com/user-attachments/assets/73b0a5b8-7248-4992-a67f-4fa04a27727a" />
+<img width="919" height="557" alt="image" src="https://github.com/user-attachments/assets/ccfbdd44-3e73-4167-85c1-f50c15fdf37d" />
+
 
 ### Kết luận:
 Phân tích cho thấy các quốc gia có mức độ hạnh phúc cao không phụ thuộc vào một yếu tố duy nhất, mà đạt được nhờ sự cân bằng đồng đều giữa nhiều khía cạnh như kinh tế, hỗ trợ xã hội và chất lượng sống.
