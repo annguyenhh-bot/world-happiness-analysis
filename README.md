@@ -208,4 +208,15 @@ Hàm ý chiến lược ở đây là: nếu muốn cải thiện hạnh phúc m
 
 **Nói cách khác: tăng trưởng tạo ra nền móng, nhưng chính hệ sinh thái xã hội mới quyết định một xã hội có thực sự “hạnh phúc” hay không.**
 
+# Cụ thể: Insight 1 
+Hạnh phúc là kết quả của sự đồng đều, không phải cực đại.
+
+# Cụ thể: Insight 2
+GDP là nền tảng – nhưng không phải yếu tố quyết định.
+
+# Cụ thể: Insight 3
+Khoảng cách hạnh phúc đang mở rộng do khác biệt về năng lực phát triển bền vững
+
+
+
 
