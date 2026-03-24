@@ -181,7 +181,7 @@ Kinh tế tạo nền tảng cho hạnh phúc, nhưng chính yếu tố xã hộ
 
 # Phân tích 5: Mức độ chênh lệch hạnh phúc giữa các quốc gia có đang thu hẹp hay gia tăng theo thời gian?
 
-## Giả thuyết 
+## Giả thuyết:
 | Danh mục        | Nội dung |
 |-----------------|----------|
 | Giả thuyết H0   | Mức độ chênh lệch hạnh phúc giữa các quốc gia không thay đổi đáng kể theo thời gian. |
@@ -190,12 +190,22 @@ Kinh tế tạo nền tảng cho hạnh phúc, nhưng chính yếu tố xã hộ
 
 <img width="585" height="294" alt="image" src="https://github.com/user-attachments/assets/de8c694f-1016-4312-a925-dae172a91f8d" />
 
-## Kết luận
+## Kết luận:
 
 Phân tích cho thấy mức độ chênh lệch hạnh phúc toàn cầu không đi theo một xu hướng thu hẹp bền vững, mà biến động theo chu kỳ ngắn hạn nhưng nghiêng về xu hướng gia tăng trong dài hạn. Dù có những thời điểm khoảng cách được cải thiện, các nhịp giảm này chưa đủ mạnh để đảo chiều xu hướng chung.
 
 Điều này hàm ý rằng tăng trưởng và tiến bộ kinh tế toàn cầu chưa lan tỏa đồng đều giữa các quốc gia. Khoảng cách hạnh phúc vì thế không chỉ phản ánh sự khác biệt về thu nhập, mà còn là kết quả tích lũy của các yếu tố cấu trúc như chất lượng thể chế, hệ thống phúc lợi và mức độ ổn định xã hội.
 
 Nói cách khác, thế giới đang tiến về phía trước, nhưng không cùng một nhịp — và chính sự lệch pha này đang âm thầm nới rộng khoảng cách hạnh phúc giữa các quốc gia.
+
+# Tổng kết: 
+
+Phân tích cho thấy hạnh phúc không phải là kết quả của một yếu tố đơn lẻ, mà là sản phẩm của một “hệ sinh thái” gồm các yếu tố kinh tế, xã hội và thể chế vận hành đồng bộ. GDP đóng vai trò là nền tảng cần thiết, nhưng không đủ; sự khác biệt thực sự giữa các quốc gia đến từ chất lượng hỗ trợ xã hội, sức khỏe, mức độ tự do và niềm tin vào hệ thống quản trị. Điều này giải thích vì sao các quốc gia top đầu không chỉ giàu mà còn duy trì được sự cân bằng ổn định giữa nhiều yếu tố trong thời gian dài. 
+
+Ở cấp độ toàn cầu, hạnh phúc là một chỉ số mang tính cấu trúc và thay đổi chậm, nhưng đáng chú ý là khoảng cách hạnh phúc giữa các quốc gia đang có xu hướng gia tăng theo thời gian. Điều này phản ánh sự phân hóa ngày càng rõ rệt về năng lực phát triển bền vững, không chỉ về kinh tế mà còn về thể chế và phúc lợi xã hội.
+
+Hàm ý chiến lược ở đây là: nếu muốn cải thiện hạnh phúc một cách bền vững, các quốc gia (hoặc tổ chức) không thể chỉ tập trung vào tăng trưởng, mà cần đầu tư đồng thời vào “chất lượng sống” — bao gồm hệ thống hỗ trợ, sức khỏe và niềm tin xã hội.
+
+**Nói cách khác: tăng trưởng tạo ra nền móng, nhưng chính hệ sinh thái xã hội mới quyết định một xã hội có thực sự “hạnh phúc” hay không.**
 
 
